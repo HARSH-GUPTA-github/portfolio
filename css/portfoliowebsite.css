@@ -230,6 +230,15 @@ nav ul li a {
 .skill:nth-child(5) .progress {
   background: #73a1fb;
 } /* Java */
+.skill:nth-child(6) .progress {
+  background: #8001e8;
+} /* MySQl */
+.skill:nth-child(7) .progress {
+  background: #ff4674;
+} /* C */
+.skill:nth-child(8) .progress {
+  background: #4879ff;
+} /* React */
 
 /* ------------------------------works/projects---------------------------- */
 .work {
